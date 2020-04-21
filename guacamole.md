@@ -2,6 +2,6 @@
 - avocado
 - lime
 - salt
-# Instructions
+# INSTRUCTIONS
 - Add a pinch of salt and the lime juice
 
