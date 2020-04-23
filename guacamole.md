@@ -1,7 +1,5 @@
 # Ingredients
 - avocado
-- lime
+- lemon
 - salt
 # INSTRUCTIONS
-- Add a pinch of salt and the lime juice
-
